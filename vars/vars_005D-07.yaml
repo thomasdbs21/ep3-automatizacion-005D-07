@@ -1,0 +1,19 @@
+alumno:
+  codigo: "005D-07"
+  nombre: "Thomas David Henriquez Aliaga"
+
+cliente:
+  empresa: "Distribuidora Valpo SA"
+
+router:
+  ip: "192.168.199.4"
+  usuario: "cisco"
+  password: "cisco123!"
+  loopback_id: 10
+  loopback_ip: "10.5.7.1"
+  loopback_mask: "255.255.255.0"
+  loopback_prefix: "24"
+  descripcion_wan: "Enlace-WAN-Iquique"
+  banner: "ACCESO RESTRINGIDO - DISTVALP"
+  ntp_server: "9.9.9.9"
+  hostname: "RTR-DISTVALP"

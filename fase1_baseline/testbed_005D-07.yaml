@@ -1,0 +1,15 @@
+devices:
+  CSR1kv:
+    os: iosxe
+    type: router
+    platform: csr1000v
+
+    credentials:
+      default:
+        username: cisco
+        password: cisco123!
+
+    connections:
+      cli:
+        protocol: ssh
+        ip: 192.168.199.4
